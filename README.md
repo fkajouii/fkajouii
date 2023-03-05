@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/kajouii/">
-    <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
+    <img src="https://img.shields.io/badge/linkedin-kajouii-blue">
   </a>
 
 </p>
